@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Pearl Ekeh – Frontend Dev",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/avatar/png",
   },
 };
 

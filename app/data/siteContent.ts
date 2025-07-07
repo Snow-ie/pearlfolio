@@ -79,12 +79,12 @@ export const projects = [
     thumbnail: "/images/Kerberos.png",
   },
   {
-    name: "Vendendault",
-    live: "https://vendendault.example.com",
+    name: "Vendavault",
+    live: "https://vendavault.com",
     tech: ["Typescript", "Next.js", "Tailwind CSS", "REST API"],
     summary:
       "Customer-onboarding portal delivered as a single-page app, featuring dynamic dashboards and CI/CD pipelines for rapid iteration.",
-    thumbnail: "/images/projects/vendendault.jpg",
+    thumbnail: "/images/vendavault.png",
   },
   {
     name: "Learn & Leap Tutors",
@@ -115,8 +115,8 @@ export const projects = [
 export const experience = [
   {
     company: "Kerberos",
-    title: "Front-End Developer",
-    period: " 2025 – Present",
+    title: "Front-End Developer (Contract)",
+    period: " 2025",
     bullets: [
       "Built the company website end-to-end: architected the project, coded the UI in Next.js + Tailwind CSS, and wired up CMS & analytics.",
       "Converted Figma designs into pixel-perfect, responsive pages with < 100 ms TTI on LTE.",
@@ -124,7 +124,7 @@ export const experience = [
     ],
   },
   {
-    company: "Vendendault",
+    company: "Vendavault",
     title: "Frontend Engineer (Contract)",
     period: "2025",
     bullets: [

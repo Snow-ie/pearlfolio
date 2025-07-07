@@ -62,9 +62,9 @@ export default function Experience() {
                   </time>
                 </header>
 
-                <ul className="mt-4 space-y-1 text-gray-300 marker:text-accent">
+                <ul className="mt-4 space-y-2 text-gray-300 marker:text-accent">
                   {job.bullets.map((b) => (
-                    <li key={b} className="list-disc pl-4">
+                    <li key={b} className="list-disc pl-4 py-1">
                       {b}
                     </li>
                   ))}
